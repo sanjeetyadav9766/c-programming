@@ -1,2 +1,2 @@
 # c-programming
-B, Tech First Year
+B.Tech First Year
